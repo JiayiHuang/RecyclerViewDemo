@@ -16,6 +16,10 @@
 	3. mRecyclerView.setLayoutManger(mLayoutManger);
 	4. mRecyclerView.setAdapter(mAdapter);
 
+**当然RecyclerView还有更加灵活的使用方式：**
+
+- 可以随意设置内部Item的显示方向，并修改条目的显示顺序，是正项还是逆向显示。
+
 ##### 三种LayoutManger可用来便捷的实现瀑布流的效果图如下：
 
 * LinearLayoutManger
